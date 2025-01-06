@@ -1,0 +1,6 @@
+@LecMap_HostAddress = http://localhost:5119
+
+GET {{LecMap_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
